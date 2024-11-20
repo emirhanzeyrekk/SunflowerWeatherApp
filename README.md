@@ -1,3 +1,13 @@
-# Sunflower Weather Application
-<img width="375" alt="image1" src="https://github.com/emirhanzeyrekk/SunflowerWeather/assets/121854589/0beb0e19-3039-4f57-b8bc-2eb175e48cf4">
-<img width="375" alt="image1" src="https://github.com/emirhanzeyrekk/SunflowerWeather/assets/121854589/db7ae249-7807-46f3-98b8-e85e3ee0ee5a">
+# Sunflower Weather
+With this app, you can grant location access via the API and get weather information based on your current location.
+
+## Technologies
+* Development Environment: Xcode
+* Programming Language: SwiftUI
+* Frameworks: CoreLocation
+* Services: JSON API
+* OS: iOS
+
+## Screenshots
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c59d80b3-216a-4465-a622-0939b61226c5">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/43bd5f6c-bb86-49f3-ae51-22b69640655e">
